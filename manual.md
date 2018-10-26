@@ -128,7 +128,7 @@ Libros sugeridos
 - Cada tesista deberá comunicar esta información a su patrocinante respectivo. Puede reenviar este programa si lo desea.  
 -	Se pide 1 (un) documento por Tesina, por lo que sólo un estudiante por tesina deberá subir los documentos requeridos. 
 
-El plazo máximo de entrega de las tesinas es 1 de noviembre de cada año a la hora indicada en SIVEDUC. Cada estudiante es responsable de tomar las medidas para no dejar para el último momento este procedimiento. Al subir los archivos a SIVEDUC, el sistema genera un correo electrónico, guárdelo para futuras referencias. Verifique su carpeta de SPAM en caso de no recibirlo en su carpeta de entrada.
+El plazo máximo de entrega de las tesinas es 31 de octubre de cada año a la hora indicada en SIVEDUC. Cada estudiante es responsable de tomar las medidas para no dejar para el último momento este procedimiento. Al subir los archivos a SIVEDUC, el sistema genera un correo electrónico, guárdelo para futuras referencias. Verifique su carpeta de SPAM en caso de no recibirlo en su carpeta de entrada.
 
 El nombre del archivo de la Tesina será el año y título de la tesina, ejemplo:
 
@@ -150,7 +150,7 @@ Cualquier consulta se deberá enviar en el Foro de SIVEDUC.
 
 - ¿Hay un formato para el protocolo y tesina?
 
-R: Si, todos los documentos están disponibles en http://j.mp/ESOD299-oficial 
+R: Si, todos los documentos están disponibles en https://github.com/diegohalabi/ESOD299 
 
 - ¿Qué cuidados debo tener con el protocolo?
 
