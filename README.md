@@ -1,4 +1,4 @@
-# Tesina de Titulación ESOD299.
+# Tesina de Titulación ESOD299 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Universidad Austral de Chile](uach.png)
 
 Bienvenidos al repositorio de ESOD299. Aquí encontrará todos los documentos y enlaces necesarios para cursar la asignatura.
 
