@@ -31,7 +31,8 @@ El examen de calificación, al igual que los avances, se realizarán en el mismo
 
 ### Tesis de otros años 🕰
 
-En la web de biblioteca existe uns repositorio con todas las tesis y tesinas finalizadas hasta la fecha, pueden ingresar [aquí](http://catalogobiblioteca.uach.cl:8080/ipac20/ipac.jsp?session=154I5WU225233.244506&profile=bibteja&uri=link=3100006~!91389~!3100001~!3100002&aspect=subtab14&menu=search&ri=4&source=~!biblioteca&term=ODONTOLOGIA&index=SUBJECT).
+En la web de Biblioteca existe un repositorio con todas las tesis y tesinas finalizadas hasta la fecha, puede ingresar [aquí](http://catalogobiblioteca.uach.cl:8080/ipac20/ipac.jsp?session=154I5WU225233.244506&profile=bibteja&uri=link=3100006~!91389~!3100001~!3100002&aspect=subtab14&menu=search&ri=4&source=~!biblioteca&term=ODONTOLOGIA&index=SUBJECT).
 
-### Tutoriales 💻
-Internet está lleno de tutoriales! Incluído este repositorio. Puede navegar libremente y aprender sin compromisos.
+### Tutoriales y material de estudio 💻
+Internet está lleno de tutoriales!
+Yo he desarrollado material de estudio disponible en /`tutoriales`, mi [blog](diegohalabi.github.io) o mi [GitHub](github.com/diegohalabi). Puede navegar libremente y aprender sin compromisos.
