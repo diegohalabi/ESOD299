@@ -118,11 +118,12 @@ Aspectos reglamentarios adicionales (requeridos por el reglamento):
 
 ### Bibliografía recomendada
 Libros guía
-- Argimon Pallás, Josep Ma., Jiménez Villa, Josep. Métodos de investigación clínica y epidemiológica.  Amsterdam : Elsevier, 2009. En versión e-book, 4 copias en biblioteca más uno para uso en sala
+- Argimon Pallás J, Jiménez Villa J. **Métodos de investigación clínica y epidemiológica**.  Amsterdam : Elsevier, 2013. BHO610.72 ARG 2013.
+
 Libros sugeridos
-- Fletcher, Robert W., Fletcher, Suzanne W., Wagner, Edward H Epidemiología clínica : aspectos fundamentales. . Barcelona : Elsevier Masson, 1998. 4 copias en biblioteca Las lecturas obligatorias se entregarán vía SIVEDUC
-- Day, Robert A., Gastel, Barbara, OPS, OMS Cómo escribir y publicar trabajos científicos  Washington : OPS, 2008.
-- Dawson - Saunders, Beth, Trapp, Robert G. Bioestadística médica. México : El Manual Moderno, 1997.
+- Wickham H, Garret G. **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**. 1st Edition. O'Reilly Media; 2017. Disponible libremente en: http://r4ds.had.co.nz
+- Martínez-González M, Sánchez-Villegas A, Faulin J. **Bioestadística amigable**. 3rd ed. Elsevier; 2014. (574.015195 MAR 2008).
+- Jiménez Villa J, Argimon Pallás J, Martín Zurro A, Vilardell Tarrés M. **Publicación científica biomédica : cómo escribir y publicar un artículo de investigación**. Barcelona : Elsevier, 2010. BHO808.066 JIM 2010.
 
 ### Instrucciones, fechas y consultas frecuentes:
 - Cada tesista deberá comunicar esta información a su patrocinante respectivo. Puede reenviar este programa si lo desea.  
