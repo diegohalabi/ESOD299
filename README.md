@@ -6,14 +6,14 @@ Bienvenidos al repositorio de ESOD299. Aquí encontrará todos los documentos y 
 El programa está disponible [aquí](Programa_de_Asignatura(DACIC2018).pdf).
 
 ### 📕 Manual de procedimiento y reglamentos
-Puede encontrar toda la información de la asignatura en el [manual de procedimiento y reglamentos](https://github.com/diegohalabi/ESOD299/blob/master/manual.md#instrucciones-fechas-y-consultas-frecuentes).
+Puede encontrar toda la información de la asignatura en el [manual de procedimiento y reglamentos](manual.md).
 Considérelo una guía de ruta, y una lectura obligatoria.
 
 ### 📄 Formatos
 
 El formato para el protocolo y las 2 versiones del manuscrito final están en la carpeta `/formatos`.
 
-¿No tiene claro por qué son 2 versiones del manuscrito? Entonces no ha leído completamente el [manual de procedimiento y reglamentos](manual.md).
+¿No tiene claro por qué son 2 versiones del manuscrito? Entonces no ha leído completamente el [manual de procedimiento y reglamentos](https://github.com/diegohalabi/ESOD299/blob/master/manual.md#instrucciones-fechas-y-consultas-frecuentes).
 
 ### 📝 Rúbricas y pautas de evaluación
 
