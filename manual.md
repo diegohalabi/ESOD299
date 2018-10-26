@@ -1,4 +1,4 @@
-# Manual de procedimiento y reglamentos ESOD299
+# Manual de procedimiento y reglamentos ESOD299 <img src="http://www.icml.uach.cl/manejador/resources/documentos/escudo-transparente.png" alt="drawing" height="100" align="right"/>
 
 ### Descripción general de la asignatura.
 
