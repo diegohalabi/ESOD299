@@ -90,7 +90,8 @@ Nota final igual o superior a 5.0.
 - La evaluación del Profesor Informante es anónima a menos que el mismo Informante indique lo contrario. 
 - Todas las rúbricas recibidas se transformarán a puntaje y se aplicará un PREMA de 60% fijo. 
 - En caso que una Tesina sea aceptada para publicar hasta la fecha de entrega en una revista ISI (WOS) o SciELO y contenga (1) información que la identifica como un trabajo de tesis y (2) los nombres o iniciales de los estudiantes, entonces la nota de los profesores informantes se completará con 7.0 (siete punto cero) y corresponderá al 80% de la nota final, como se indica previamente. Será el profesor patrocinante quien informará y enviará la copia de la notificación de aceptación al profesor coordinador de la asignatura.
-Aspectos reglamentarios adicionales (requeridos por el reglamento):
+
+### Aspectos reglamentarios adicionales (requeridos por el reglamento):
 - Concernientes a la asistencia: 100% de asistencia a actividades prácticas.
 - Número de controles: 2 evaluaciones del profesor patrocinante, 3 del profesor de la asignatura y 3 de profesores informantes.
 - Porcentajes: profesor patrocinante 10%; avances 10%, profesores informantes 80%.
