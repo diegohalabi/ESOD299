@@ -9,7 +9,7 @@ library(here)
 here()
 df <- read.csv('eval.csv',sep=',')
 str(df)
-# Ordena los datos en formato tidy
+# Ordena los datos
 grades <- df %>% 
   gather(nstudent,student,Estudiante.1:Estudiante.2) %>% 
   # Reemplaza las categorías por números (puntaje)
@@ -88,4 +88,4 @@ grades <- df %>%
   group_by(student) %>% 
   summarize(total=mean(grade))
 # Guarda el archivo
-write.csv(grades,'grades.csv')
+write.csv(grades,'notas.csv')
