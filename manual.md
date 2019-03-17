@@ -50,7 +50,7 @@ Todas las propuestas que requieran el uso de fichas clínicas o involucre pacien
 Más información en:
 
 - Comité Ética Científica Servicio de Salud Valdivia:
-http://bit.ly/comite-etica-ssvaldivia 
+http://ssvaldivia.redsalud.gob.cl/?page_id=1158
 - Comité de Bioética - Facultad de Medicina
 http://investigacion.uach.cl/comites/comite-bioetica-ciencias-medicas.php 
 - Comité Uso de Animales en la Investigación
@@ -74,7 +74,7 @@ Y la afiliación de los autores adscritos a la Universidad debe ir de la siguien
 > Nombre, School of Dentistry, Universidad Austral de Chile, Valdivia, CHILE.
 
 ### Horario de la asignatura:
-Los profesores de asignatura podrán ser ubicados los días lunes de 11:30 a 13:00 en el Edificio del Instituto de Odontoestomatología (Dr. Sergio Uribe y Dra. Ilze Madupa), o en la Escuela de Odontología (Dr. Diego Halabi).
+Los profesores de asignatura podrán ser ubicados los días lunes de 11:30 a 13:00 en el [Edificio del Instituto de Odontoestomatología](https://goo.gl/maps/QAA5KCbNHWM2) (Dr. Sergio Uribe y Dra. Ilze Madupa), [Laboratorio de Fisiología Sensorial](https://goo.gl/maps/tZcz9HUHBEw) (Dr. Peña) o en la [Escuela de Odontología](https://goo.gl/maps/myVZAtsQrGG2) (Dr. Diego Halabi).
 
 ### Requisitos de asistencia:
 100% para las actividades prácticas.
