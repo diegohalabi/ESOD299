@@ -36,4 +36,4 @@ En la web de Biblioteca existe un repositorio con todas las tesis y tesinas fina
 ### 👀 Tutoriales y material de estudio
 Internet está lleno de tutoriales!
 
-Yo he desarrollado material de estudio disponible en `/tutoriales`, mi [blog](diegohalabi.github.io) o mi [GitHub](github.com/diegohalabi). Puede navegar libremente y aprender sin compromisos.
+Yo he desarrollado material de estudio disponible en `/tutoriales`, mi [blog](http://diegohalabi.github.io) o mi [GitHub](http://github.com/diegohalabi). Puede navegar libremente y aprender sin compromisos.
