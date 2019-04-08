@@ -83,13 +83,17 @@ Los profesores de asignatura podrán ser ubicados los días lunes de 11:30 a 13:
 Nota final igual o superior a 5.0. 
 
 ### Evaluaciones:
-- Cada Tesina de Titulación será dirigida y asesorada por un Profesor Patrocinante, quien procederá a su evaluación a fin del 1er y 2do semestre mediante la Rúbrica de Evaluación del Profesor Patrocinante. El promedio de estas evaluaciones corresponde al 10% de la nota de tesina. En caso que el patrocinante no entregue estas evaluaciones, se completarán con la nota de los profesores informantes.
-- Durante el año, cada grupo de tesina tendrá 3 reuniones obligatorias con un docente de la asignatura, con el fin de evaluar los estados de avance de a) el protocolo de investigación, b) el análisis de los datos, y c) la presentación final de la tesina. El promedio de estas 3 evaluaciones corresponderá al 10% de la nota final.
-- Cada Tesina de Titulación será evaluada por tres profesores informantes: uno de la asignatura de tesina de titulación ESOD299 y dos profesores informantes sugeridos por el profesor patrocinante. En caso el profesor patrocinante no entregue nómina de profesores informantes, el encargado de la asignatura de la tesina procederá a asignar a informantes para la evaluación. 
-- Los profesores informantes evaluarán cada tesina mediante la rúbrica de Evaluación del Profesor Informante
-- La evaluación del Profesor Informante es anónima a menos que el mismo Informante indique lo contrario. 
-- Todas las rúbricas recibidas se transformarán a puntaje y se aplicará un PREMA de 60% fijo. 
-- En caso que una Tesina sea aceptada para publicar hasta la fecha de entrega en una revista ISI (WOS) o SciELO y contenga (1) información que la identifica como un trabajo de tesis y (2) los nombres o iniciales de los estudiantes, entonces la nota de los profesores informantes se completará con 7.0 (siete punto cero) y corresponderá al 80% de la nota final, como se indica previamente. Será el profesor patrocinante quien informará y enviará la copia de la notificación de aceptación al profesor coordinador de la asignatura.
+- Cada Tesina de Titulación será dirigida y asesorada por un Profesor Patrocinante, quien procederá a su evaluación a fin del 1er y 2do semestre mediante la Rúbrica de Evaluación del Profesor Patrocinante (12 de Julio y 25 de octubre, respectivamente). El promedio de estas evaluaciones corresponde al 10% de la nota de tesina.
+
+- Cada Tesina de Titulación debe ser presentada en 3 avances obligatorios durante el año (examen de calificación, avance de datos y presentación final), que serán evaluadas según rúbrica por los docentes de la asignatura ESOD299. El promedio de estos 3 avances corresponde al 10% de la nota anual.
+
+- Cada Tesina de Titulación será evaluada por tres profesores informantes a partir del 04 de noviembre: uno de la asignatura de Tesina de Titulación ESOD299 y dos profesores informantes que pueden ser sugeridos por el(la) profesor(a) patrocinante. En caso que el profesor(a) patrocinante no entregue nómina de profesores informantes, el encargado de la asignatura ESOD299 procederá a asignar informantes para la evaluación. El promedio de estas 3 evaluaciones corresponderá al 80% de la nota de asignatura. La decisión final sobre los 3 evaluadores será definida por los docentes de la asignatura.
+
+- En caso que un profesor informante no entregue su evaluación dentro de las fechas acordadas, ésta será realizada por un profesor de la asignatura. Si éste estuviera inhabilitado por alguna razón de fuerza mayor (ejemplo: es patrocinante de esa tesina), la nota final se podrá calcular con un mínimo de 2 evaluaciones.
+
+- Todas las rúbricas se transformarán a puntaje con el código disponible en Siveduc y se aplicará un PREMA de 60% fijo.
+
+- En caso que una Tesina sea aceptada para publicar hasta la fecha de entrega en una revista ISI (WOS) o SciELO y contenga (1) información que la identifica como un trabajo de tesis y (2) los nombres o iniciales de los estudiantes, entonces la nota de los profesores informantes se completará con 7.0 (siete punto cero) y corresponderá al 90% de la nota final, como se indica previamente. Será el profesor patrocinante quien informará y enviará la copia de la notificación de aceptación al profesor encargado de la asignatura.
 
 ### Aspectos reglamentarios adicionales (requeridos por el reglamento):
 - Concernientes a la asistencia: 100% de asistencia a actividades prácticas.
@@ -105,17 +109,17 @@ Nota final igual o superior a 5.0.
 
 | Tarea                 | Dónde           | Responsable  | Fecha |
 |------------------|-------------|-----|--------|
-| Completar formulario con datos protocolo |[ Formulario online](https://goo.gl/s7dAZB) | Tesista, uno por Tesina | Hasta 16 de marzo |
-| Subir protocolo en PDF con las firmas respectivas |	Tareas Siveduc | Tesista, uno por Tesina	| Hasta 30 de marzo |
-| **Examen de calificación: Presentación oral del protocolo de investigación.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2) | Tesista, Prof Patrocinante y Prof de la Asignatura	| Entre 29 de Marzo y 6 de Abril |
+| Completar formulario con datos protocolo |[ Formulario online](https://goo.gl/s7dAZB) | Tesista, uno por Tesina | Hasta 05 de abril |
+| Subir protocolo en PDF con las firmas respectivas |	Tareas Siveduc | Tesista, uno por Tesina	| Hasta 15 de abril |
+| **Examen de calificación: Presentación oral del protocolo de investigación.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2) | Tesista, Prof Patrocinante y Prof de la Asignatura	| Entre 15 y 19 de abril |
 | Límite para cambio de tema, tesina o profesor patrocinante	| Correo electrónico al profesor encargado	| Profesor patrocinante	| Hasta el 31 de Mayo |
-| Ingresar evaluaciones del 1er semestre. | Prof coordinador ESOD299 enviará un correo con el enlace para ingresar la evaluación. 	| Formulario online que se le enviará al patrocinante	Profesor Patrocinante |	Hasta 14 de julio |
-| **Primer avance de Tesina: presentación oral de los resultados, análisis de datos y conclusión preliminar.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2)	| Tesista, Prof Patrocinante y Prof de la Asignatura |	Entre 13 a 19 de agosto |
+| Ingresar evaluaciones del 1er semestre. | Prof coordinador ESOD299 enviará un correo con el enlace para ingresar la evaluación. 	| Formulario online que se le enviará al patrocinante	Profesor Patrocinante |	Hasta 12 de julio |
+| **Primer avance de Tesina: presentación oral de los resultados, análisis de datos y conclusión preliminar.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2)	| Tesista, Prof Patrocinante y Prof de la Asignatura |	Entre 05 a 09 de agosto |
 | Contactar y confirmar que los profesores informantes propuestos estén disponibles para la revisión de la Tesina. Informar cualquier cambio de profesor informante. Los profesores informantes recibirán la Tesina el día 1 de noviembre y tienen hasta el 17 de noviembre para enviar su revisión. | |	Profesor Patrocinante |	hasta 31 de agosto |
-| **Segundo avance de Tesina: presentación oral del trabajo finalizado.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2)	| Tesista, Prof Patrocinante y Prof de la Asignatura |	Entre 01 a 05 de octubre |
-| Ingresar evaluaciones del 2do semestre. | Prof coordinador ESOD299 enviará un correo con el enlace para ingresar la evaluación. |	Formulario online que se le enviará al patrocinante	Profesor Patrocinante |	hasta 27 de octubre |
-| Subir dos copias de la Tesina en formato PDF en SIVEDUC. Una completa (formato tesina) y otra anonimizada (formato informante) para enviar a los profesores informantes.	| Tareas Siveduc	| Tesista, uno por Tesina	| hasta 31 de octubre 14:30 hrs |
-| Entregar la tesina, en “formato completo” impresa y empastada en Dirección de Escuela. 	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2) | Tesista, uno por Tesina	| hasta 24 de noviembre |
+| **Segundo avance de Tesina: presentación oral del trabajo finalizado.**	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2)	| Tesista, Prof Patrocinante y Prof de la Asignatura |	Entre 14 a 21 de octubre |
+| Ingresar evaluaciones del 2do semestre. | Prof coordinador ESOD299 enviará un correo con el enlace para ingresar la evaluación. |	Formulario online que se le enviará al patrocinante	Profesor Patrocinante |	hasta 25 de octubre |
+| **Subir dos copias de la Tesina en formato PDF en SIVEDUC**. Una completa (formato tesina) y otra anonimizada (formato informante) para enviar a los profesores informantes.	| Tareas Siveduc	| Tesista, uno por Tesina	| hasta 31 de octubre 14:30 hrs |
+| Entregar la tesina, en “formato completo” impresa y empastada en Dirección de Escuela. 	| [Escuela de Odontología (Isla Teja)](https://goo.gl/maps/dgvnZqpLpuB2) | Tesista, uno por Tesina	| hasta 25 de noviembre |
 
 ### Bibliografía recomendada
 Libros guía
